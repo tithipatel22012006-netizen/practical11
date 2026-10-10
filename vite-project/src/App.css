@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+}
+
+.app {
+  text-align: center;
+  padding: 30px;
+}
+
+h1 {
+  color: #2563eb;
+}
+
+nav {
+  margin: 20px 0;
+}
+
+nav a {
+  margin: 0 15px;
+  text-decoration: none;
+  color: #2563eb;
+  font-weight: bold;
+}
+
+nav a:hover {
+  color: #dc2626;
+  text-decoration: underline;
+}
+
+hr {
+  margin: 20px auto;
+  max-width: 600px;
+}
